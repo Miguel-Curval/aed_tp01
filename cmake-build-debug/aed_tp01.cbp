@@ -88,10 +88,22 @@
 		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Aircraft.h">
 			<Option target="aed_tp01"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Airline.cpp">
+		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Airport.cpp">
 			<Option target="aed_tp01"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Airline.h">
+		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Airport.h">
+			<Option target="aed_tp01"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Date.cpp">
+			<Option target="aed_tp01"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Date.h">
+			<Option target="aed_tp01"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/DateTime.cpp">
+			<Option target="aed_tp01"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/DateTime.h">
 			<Option target="aed_tp01"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Flight.cpp">
@@ -100,16 +112,22 @@
 		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Flight.h">
 			<Option target="aed_tp01"/>
 		</Unit>
+		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Luggage.cpp">
+			<Option target="aed_tp01"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Luggage.h">
+			<Option target="aed_tp01"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/LuggageVehicle.cpp">
+			<Option target="aed_tp01"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/LuggageVehicle.h">
+			<Option target="aed_tp01"/>
+		</Unit>
 		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Passenger.cpp">
 			<Option target="aed_tp01"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Passenger.h">
-			<Option target="aed_tp01"/>
-		</Unit>
-		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Person.cpp">
-			<Option target="aed_tp01"/>
-		</Unit>
-		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Person.h">
 			<Option target="aed_tp01"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Service.cpp">
@@ -118,10 +136,16 @@
 		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Service.h">
 			<Option target="aed_tp01"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Staff.cpp">
+		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Time.cpp">
 			<Option target="aed_tp01"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Staff.h">
+		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Time.h">
+			<Option target="aed_tp01"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Transportation.cpp">
+			<Option target="aed_tp01"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/Transportation.h">
 			<Option target="aed_tp01"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/home/CLionProjects/aed_tp01/main.cpp">

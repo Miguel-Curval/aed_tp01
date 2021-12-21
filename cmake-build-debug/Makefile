@@ -150,32 +150,86 @@ Aircraft.cpp.s:
 	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Aircraft.cpp.s
 .PHONY : Aircraft.cpp.s
 
-Airline.o: Airline.cpp.o
+Airport.o: Airport.cpp.o
 
-.PHONY : Airline.o
+.PHONY : Airport.o
 
 # target to build an object file
-Airline.cpp.o:
-	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Airline.cpp.o
-.PHONY : Airline.cpp.o
+Airport.cpp.o:
+	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Airport.cpp.o
+.PHONY : Airport.cpp.o
 
-Airline.i: Airline.cpp.i
+Airport.i: Airport.cpp.i
 
-.PHONY : Airline.i
+.PHONY : Airport.i
 
 # target to preprocess a source file
-Airline.cpp.i:
-	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Airline.cpp.i
-.PHONY : Airline.cpp.i
+Airport.cpp.i:
+	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Airport.cpp.i
+.PHONY : Airport.cpp.i
 
-Airline.s: Airline.cpp.s
+Airport.s: Airport.cpp.s
 
-.PHONY : Airline.s
+.PHONY : Airport.s
 
 # target to generate assembly for a file
-Airline.cpp.s:
-	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Airline.cpp.s
-.PHONY : Airline.cpp.s
+Airport.cpp.s:
+	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Airport.cpp.s
+.PHONY : Airport.cpp.s
+
+Date.o: Date.cpp.o
+
+.PHONY : Date.o
+
+# target to build an object file
+Date.cpp.o:
+	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Date.cpp.o
+.PHONY : Date.cpp.o
+
+Date.i: Date.cpp.i
+
+.PHONY : Date.i
+
+# target to preprocess a source file
+Date.cpp.i:
+	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Date.cpp.i
+.PHONY : Date.cpp.i
+
+Date.s: Date.cpp.s
+
+.PHONY : Date.s
+
+# target to generate assembly for a file
+Date.cpp.s:
+	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Date.cpp.s
+.PHONY : Date.cpp.s
+
+DateTime.o: DateTime.cpp.o
+
+.PHONY : DateTime.o
+
+# target to build an object file
+DateTime.cpp.o:
+	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/DateTime.cpp.o
+.PHONY : DateTime.cpp.o
+
+DateTime.i: DateTime.cpp.i
+
+.PHONY : DateTime.i
+
+# target to preprocess a source file
+DateTime.cpp.i:
+	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/DateTime.cpp.i
+.PHONY : DateTime.cpp.i
+
+DateTime.s: DateTime.cpp.s
+
+.PHONY : DateTime.s
+
+# target to generate assembly for a file
+DateTime.cpp.s:
+	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/DateTime.cpp.s
+.PHONY : DateTime.cpp.s
 
 Flight.o: Flight.cpp.o
 
@@ -204,6 +258,60 @@ Flight.cpp.s:
 	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Flight.cpp.s
 .PHONY : Flight.cpp.s
 
+Luggage.o: Luggage.cpp.o
+
+.PHONY : Luggage.o
+
+# target to build an object file
+Luggage.cpp.o:
+	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Luggage.cpp.o
+.PHONY : Luggage.cpp.o
+
+Luggage.i: Luggage.cpp.i
+
+.PHONY : Luggage.i
+
+# target to preprocess a source file
+Luggage.cpp.i:
+	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Luggage.cpp.i
+.PHONY : Luggage.cpp.i
+
+Luggage.s: Luggage.cpp.s
+
+.PHONY : Luggage.s
+
+# target to generate assembly for a file
+Luggage.cpp.s:
+	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Luggage.cpp.s
+.PHONY : Luggage.cpp.s
+
+LuggageVehicle.o: LuggageVehicle.cpp.o
+
+.PHONY : LuggageVehicle.o
+
+# target to build an object file
+LuggageVehicle.cpp.o:
+	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/LuggageVehicle.cpp.o
+.PHONY : LuggageVehicle.cpp.o
+
+LuggageVehicle.i: LuggageVehicle.cpp.i
+
+.PHONY : LuggageVehicle.i
+
+# target to preprocess a source file
+LuggageVehicle.cpp.i:
+	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/LuggageVehicle.cpp.i
+.PHONY : LuggageVehicle.cpp.i
+
+LuggageVehicle.s: LuggageVehicle.cpp.s
+
+.PHONY : LuggageVehicle.s
+
+# target to generate assembly for a file
+LuggageVehicle.cpp.s:
+	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/LuggageVehicle.cpp.s
+.PHONY : LuggageVehicle.cpp.s
+
 Passenger.o: Passenger.cpp.o
 
 .PHONY : Passenger.o
@@ -230,33 +338,6 @@ Passenger.s: Passenger.cpp.s
 Passenger.cpp.s:
 	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Passenger.cpp.s
 .PHONY : Passenger.cpp.s
-
-Person.o: Person.cpp.o
-
-.PHONY : Person.o
-
-# target to build an object file
-Person.cpp.o:
-	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Person.cpp.o
-.PHONY : Person.cpp.o
-
-Person.i: Person.cpp.i
-
-.PHONY : Person.i
-
-# target to preprocess a source file
-Person.cpp.i:
-	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Person.cpp.i
-.PHONY : Person.cpp.i
-
-Person.s: Person.cpp.s
-
-.PHONY : Person.s
-
-# target to generate assembly for a file
-Person.cpp.s:
-	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Person.cpp.s
-.PHONY : Person.cpp.s
 
 Service.o: Service.cpp.o
 
@@ -285,32 +366,59 @@ Service.cpp.s:
 	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Service.cpp.s
 .PHONY : Service.cpp.s
 
-Staff.o: Staff.cpp.o
+Time.o: Time.cpp.o
 
-.PHONY : Staff.o
+.PHONY : Time.o
 
 # target to build an object file
-Staff.cpp.o:
-	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Staff.cpp.o
-.PHONY : Staff.cpp.o
+Time.cpp.o:
+	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Time.cpp.o
+.PHONY : Time.cpp.o
 
-Staff.i: Staff.cpp.i
+Time.i: Time.cpp.i
 
-.PHONY : Staff.i
+.PHONY : Time.i
 
 # target to preprocess a source file
-Staff.cpp.i:
-	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Staff.cpp.i
-.PHONY : Staff.cpp.i
+Time.cpp.i:
+	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Time.cpp.i
+.PHONY : Time.cpp.i
 
-Staff.s: Staff.cpp.s
+Time.s: Time.cpp.s
 
-.PHONY : Staff.s
+.PHONY : Time.s
 
 # target to generate assembly for a file
-Staff.cpp.s:
-	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Staff.cpp.s
-.PHONY : Staff.cpp.s
+Time.cpp.s:
+	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Time.cpp.s
+.PHONY : Time.cpp.s
+
+Transportation.o: Transportation.cpp.o
+
+.PHONY : Transportation.o
+
+# target to build an object file
+Transportation.cpp.o:
+	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Transportation.cpp.o
+.PHONY : Transportation.cpp.o
+
+Transportation.i: Transportation.cpp.i
+
+.PHONY : Transportation.i
+
+# target to preprocess a source file
+Transportation.cpp.i:
+	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Transportation.cpp.i
+.PHONY : Transportation.cpp.i
+
+Transportation.s: Transportation.cpp.s
+
+.PHONY : Transportation.s
+
+# target to generate assembly for a file
+Transportation.cpp.s:
+	$(MAKE) -f CMakeFiles/aed_tp01.dir/build.make CMakeFiles/aed_tp01.dir/Transportation.cpp.s
+.PHONY : Transportation.cpp.s
 
 main.o: main.cpp.o
 
@@ -351,24 +459,36 @@ help:
 	@echo "... Aircraft.o"
 	@echo "... Aircraft.i"
 	@echo "... Aircraft.s"
-	@echo "... Airline.o"
-	@echo "... Airline.i"
-	@echo "... Airline.s"
+	@echo "... Airport.o"
+	@echo "... Airport.i"
+	@echo "... Airport.s"
+	@echo "... Date.o"
+	@echo "... Date.i"
+	@echo "... Date.s"
+	@echo "... DateTime.o"
+	@echo "... DateTime.i"
+	@echo "... DateTime.s"
 	@echo "... Flight.o"
 	@echo "... Flight.i"
 	@echo "... Flight.s"
+	@echo "... Luggage.o"
+	@echo "... Luggage.i"
+	@echo "... Luggage.s"
+	@echo "... LuggageVehicle.o"
+	@echo "... LuggageVehicle.i"
+	@echo "... LuggageVehicle.s"
 	@echo "... Passenger.o"
 	@echo "... Passenger.i"
 	@echo "... Passenger.s"
-	@echo "... Person.o"
-	@echo "... Person.i"
-	@echo "... Person.s"
 	@echo "... Service.o"
 	@echo "... Service.i"
 	@echo "... Service.s"
-	@echo "... Staff.o"
-	@echo "... Staff.i"
-	@echo "... Staff.s"
+	@echo "... Time.o"
+	@echo "... Time.i"
+	@echo "... Time.s"
+	@echo "... Transportation.o"
+	@echo "... Transportation.i"
+	@echo "... Transportation.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

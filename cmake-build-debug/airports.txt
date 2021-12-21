@@ -1,0 +1,25 @@
+3
+Aires de Buenos Aires
+1
+Autocarro
+300
+9 9
+Baguim do Monte International
+2
+Comboio
+100
+15 33
+Autocarro
+40
+19 1
+Ermesinde Aeronautica
+3
+Autocarro
+500
+8 21
+Metro
+300
+12 45
+Autocarro
+200
+15 43

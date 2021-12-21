@@ -1,0 +1,50 @@
+4
+2
+XPTO
+B747
+60
+Aires de Buenos Aires
+2
+0
+Aires de Buenos Aires
+Aeroporto Eu Rio :D (de Janeiro)
+2021 12 21
+21 21
+2021 12 22
+3 34
+58
+1
+Aeroporto Eu Rio :D (de Janeiro)
+Lisvoa
+2021 12 22
+8 20
+2021 12 22
+18 20
+60
+0
+0
+0
+S2_S2
+A380
+75
+Areosa pelos Ares
+2
+2
+Areosa pelos Ares
+AeroPORTO CARAGO
+2021 12 25
+17 20
+2021 12 25
+17 25
+75
+3
+AeroPORTO CARAGO
+Buenoz Diaz Matozinhoz
+2021 12 19
+14 30
+2021 12 19
+14 34
+70
+0
+0
+0
